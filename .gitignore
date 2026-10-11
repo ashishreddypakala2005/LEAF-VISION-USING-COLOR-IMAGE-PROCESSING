@@ -2,5 +2,6 @@ __pycache__/
 .venv/
 venv/
 results/*
-!results/.gitkeep
+!results/sample_*.png
+!results/sample_*.csv
 *.pyc
