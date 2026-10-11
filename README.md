@@ -7,7 +7,7 @@ LeafVision is a Python/OpenCV project that demonstrates classical colour-based l
 1. Clone this repository or download it from GitHub using **Code → Download ZIP**, then extract it.
 2. Install Python 3.10 or newer.
 3. Double-click `START_PROJECT.bat`. It installs the packages in `requirements.txt` and starts the app.
-4. Open the local URL printed in the terminal, usually `http://localhost:8501`.
+4. Open the local URL printed in the terminal, usually [http://localhost:8501](http://localhost:8501).
 
 Alternatively, open PowerShell in the project folder and run:
 
