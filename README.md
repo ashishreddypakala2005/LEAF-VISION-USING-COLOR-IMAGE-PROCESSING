@@ -1,6 +1,6 @@
-# LeafVision — Leaf Disease Segmentation using Color Image Processing
+# Leaf-Disease-Segmentation-using-Color-Image-Processing
 
-Professional Streamlit UI for classical image processing with PlantVillage folder support.
+A computer vision project for leaf disease segmentation using Python, OpenCV, HSV and CIELAB colour spaces, and morphological operations. It uses the PlantVillage dataset to segment leaf regions, highlight potential disease-affected areas, and estimate affected area through an interactive Streamlit web interface.
 
 ## Features
 - Overview dashboard matching the supplied UI reference.
