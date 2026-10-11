@@ -39,11 +39,12 @@ section[data-testid="stSidebar"] [data-testid="stMetric"] [data-testid="stMetric
 .page-title{font-family:'Playfair Display',serif;font-size:29px;color:#1b3a2d;margin:4px 0}
 .page-sub{color:#68796f;font-size:14px;margin-bottom:22px}
 .kpi{background:white;border:1px solid #e2e9df;border-radius:16px;padding:17px 19px;min-height:110px}
-.kpi .label{font-size:12px;color:#728075;margin-bottom:9px}.kpi .value{font-family:'Playfair Display',serif;font-size:25px;color:#214d38;font-weight:700}.kpi .foot{font-size:11px;color:#849187;margin-top:4px}
+.kpi .label{font-size:12px;color:#728075;margin-bottom:9px}.kpi .value{font-family:'Playfair Display',serif;font-size:20px;line-height:1.25;overflow-wrap:anywhere;color:#214d38;font-weight:700}.kpi .foot{font-size:11px;color:#849187;margin-top:4px}
 .step,.panel{background:white;border:1px solid #e5e9df;border-radius:15px;padding:17px 19px;margin-bottom:14px}
 .step{min-height:135px}.step .num{font-size:12px;color:#1d966b;font-weight:700;letter-spacing:1px}.step h4{color:#234635;margin:10px 0 7px;font-size:15px}.step p,.panel p{font-size:13px;line-height:1.7;color:#748078;margin:0}
 .panel h3{font-size:17px;color:#214333;margin:0 0 10px}
-div.stButton>button[kind="primary"]{background:#15966d;border:0;border-radius:10px;color:white;font-weight:700;min-height:44px}
+div.stButton>button[kind="primary"]{background:#15966d;border:0;border-radius:10px;color:#fff;font-weight:700;min-height:44px}
+div.stButton>button[kind="primary"] *{color:#fff!important}
 div.stButton>button[kind="primary"]:hover{background:#087b57;color:white}
 div[data-testid="stMetric"]{background:#fff;border:1px solid #e4e9df;padding:13px 15px;border-radius:14px}
 .stTabs [data-baseweb="tab"]{background:#eef2eb;border-radius:9px 9px 0 0;padding:9px 16px}
